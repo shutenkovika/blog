@@ -24,7 +24,19 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
+  email: shutenkovika@yandex.ru
+  address:
+    street: Profsoyuznaya
+    city: Moscow
+    region: Moscow
+    postcode: '117218'
+    country: Russia
+    country_code: RU
+  office_hours:
+    - 'Monday - Thursday 10:00 to 13:00'
+    - 'Friday 10:00 to 12:00'
+ 
 design:
   columns: '2'
 ---
