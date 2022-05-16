@@ -17,30 +17,30 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- icon: c++
-  icon_pack: fab
+- icon: c_icon
+  icon_pack: custom
   name: C++
   description: 75%
 - icon: python
   icon_pack: fab
   name: Python
-  description: 25%
+  description: 30%
 - icon: swift
   icon_pack: fab
   name: Swift
   description: 25%
-- icon: julia
-  icon_pack: fab
+- icon: julia_icon
+  icon_pack: custom
   name: Julia
-  description: 75%
-- icon: cisco
-  icon_pack: fab
+  description: 30%
+- icon: icon_cisco
+  icon_pack: custom
   name: Cisco
-  description: 25%
+  description: 65%
 - icon: figma
   icon_pack: fab
   name: Figma
-  description: 50%
+  description: 30%
 
 
 
