@@ -24,29 +24,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+  date_end: "2020-06-19"
+  date_start: "2020-05-25"
+  description: "Basics of C++ Development: White Belt"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  url: https://coursera.org/share/2750c2db9de2b41062241d7b7cb13dae
+#- certificate_url: https://www.edx.org
+#  date_end: ""
+#  date_start: "2021-01-01"
+#  description: Formulated informed blockchain models, hypotheses, and use cases.
+#  organization: edX
+#  organization_url: https://www.edx.org
+#  title: Blockchain Fundamentals
+#  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#- certificate_url: https://www.datacamp.com
+#  date_end: "2020-12-21"
+#  date_start: "2020-07-01"
+#  description: ""
+#  organization: DataCamp
+#  organization_url: https://www.datacamp.com
+#  title: 'Object-Oriented Programming in R'
+#  url: ""
 
 design:
   columns: '2' 
