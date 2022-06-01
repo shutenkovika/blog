@@ -60,16 +60,17 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- name: CV
+  url: uploads/resume.pdf
+  weight: 70
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: shutenkovika@yandex.ru
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 Victoria Michailovna Schutenko is a 3-year student of the Faculty of Physics, Mathematics and Natural Sciences from Peoples' Friendship University of Russia (RUDN university). She is a Junior. Majoring in Fundamental Informatics and computer sсience. Her research interests include learning programming languages c++, python, swift, system administration, business processes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
