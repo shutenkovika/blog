@@ -36,7 +36,23 @@ date_format: Jan 2006
 #        * Modelling
 #        * Deploying
         
+experience:
 
+  - title: technical writer business analyst
+    company: Bank DOM.RF
+    company_url: 'https://domrfbank.ru/ '
+    company_logo: org-gc
+    location: Moscow, Russia
+    date_start: '2022-07-28'
+    date_end: '2022-10-28'
+    description: |2-
+        Responsibilities include:
+        
+        * Conducting research of the DBO information system, its modules and components.
+        * Updating the database.
+        * Description of Integration with other systems in a single knowledge base. 
+        * Writing Business requirements.
+        
 
 design:
   columns: '2'
