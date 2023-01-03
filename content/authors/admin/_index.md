@@ -71,6 +71,6 @@ email: shutenkovika@yandex.ru
 highlight_name: true
 
 ---
-Victoria Michailovna Schutenko is a 3-year student of the Faculty of Physics, Mathematics and Natural Sciences from Peoples' Friendship University of Russia (RUDN university). She is a Junior. Majoring in Fundamental Informatics and computer sсience. Her research interests include learning programming languages c++, python, swift, system administration, business processes.
+Victoria Michailovna Schutenko is a 4-year student of the Faculty of Physics, Mathematics and Natural Sciences from Peoples' Friendship University of Russia (RUDN university). She is a Junior. Majoring in Fundamental Informatics and computer sсience. Her research interests include learning programming languages c++, python, swift, system administration, business processes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
