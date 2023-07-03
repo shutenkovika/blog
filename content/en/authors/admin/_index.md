@@ -6,7 +6,7 @@ title: Victoria Michailovna Schutenko
 superuser: true
 
 # Role/position/tagline
-role: Student of the Faculty of Physics, Mathematics and Natural Sciences
+role: Master’s student of the Faculty of Physics, Mathematics and Natural Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Victoria Michailovna Schutenko is a 3-year student from RUDN university. Junior. Majoring in Fundamental Informatics and computer sсience.
+bio: Victoria Schutenko is a Master’s student of RUDN university. Junior. Majoring in Fundamental Informatics and computer sсience.
 
 # Interests to show in About widget
 interests:
@@ -32,9 +32,12 @@ education:
   - course: Social security law
     institution: college of administration and modern technology
     year: 2016-2019
-  - course: Fundamental Informatics and computer sсience
+  - course: Bachelor’s Degree of Fundamental Informatics and computer sсience
     institution: Peoples' Friendship University of Russia (RUDN)
-    year: 2019-present
+    year: 2019-2023
+  - course: Masters Degree of Fundamental Informatics and computer sсience
+    institution: Peoples' Friendship University of Russia (RUDN)
+    year: 2023-2025 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
