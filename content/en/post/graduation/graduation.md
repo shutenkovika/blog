@@ -29,11 +29,11 @@ image:
   placement: 2
   preview_only: false
 
-image:
-  caption: 'IMG_7529.png'
-  focal_point: ""
-  placement: 2
-  preview_only: false
+#image:
+ # caption: 'IMG_7529.png'
+  #focal_point: ""
+  #placement: 2
+  #preview_only: false
 
 authors:
 - admin
