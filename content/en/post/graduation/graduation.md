@@ -23,14 +23,15 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-    caption: 'IMG_7495.png'
+    folder: 'IMG_7495.png'
 
 #  caption: 'IMG_7495.png'
 #  focal_point: ""
 #  placement: 2
 #  preview_only: false
 
-#image:
+image:
+         folder: 'IMG_7529.png'
  # caption: 'IMG_7529.png'
   #focal_point: ""
   #placement: 2
